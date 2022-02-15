@@ -1,0 +1,5 @@
+Hello! This is Smruti.
+
+Create github account
+Create a repository and file on github
+Install Git SCM for command lines
