@@ -1,0 +1,29 @@
+Name: Smruti Padhi
+Roll no.: 21251
+Sec: CSE C
+
+Pseudo code for a program to print Nth element of Fibonacci  Series:
+
+Solution 1#
+For fibo(n),
+Begin
+DECLARE int Num, a, b, c, and i
+OUTPUT " Enter the number "
+INPUT Num
+ASSIGN a = 0, b = 1, and c = 0
+FOR (i = 1, i <= Num, i++)
+  c = a + b
+  a = b
+  b = c
+PRINT " The number is " & c
+END
+
+Solution 2#
+1. Declaring variables Num, a, b, c and i as integers.
+2. Enter a number to store in Num.
+3. Here, assigning a = 0, b = 1, and c =0.
+4. Applying For conditional statement, where the condition is (i = 1, i <= Num, i++).
+   # Compute c = a + b
+   # a = b
+   # b = c
+5. Output will be displayed as " The number is " & c
