@@ -1,0 +1,29 @@
+Name: Smruti Padhi
+Roll no.: 21251
+Sec: CSE C
+
+Soultion 1#
+1. Declare variables Number, n and r as integer.
+2. Enter any number and store it in n variable.
+3. Here, Number = n.
+3. Using while loop, the condition created is (n >= 3). 
+  # If the number satisfies the condition, then it enters the True looping statement. Where it is computed as n = n - 3.
+  # After completing the loop, it moves towards the False statement, where it is shown r = n.
+4. Here, if-else decision control statement is used, where the condition is; 
+  # If (r == 0), The output is " True, the number is divisible by 3. "
+  # else, the output is " False, the numbr is ot divisible by 3. "
+
+Solution 2#
+For n mod 3 == 0,
+Begin
+DECLARE int Number, n, and r
+OUTPUT " Enter a number " 
+INPUT n
+ASSIGN Number = n
+WHILE (n >= 3)
+    n = n - 3
+  r = n
+IF (r = 0)
+     THEN PRINT " True, the number is divisible by 3. "
+   ELSE PRINT " False, the number is not divisible by 3. "
+ENDIF
