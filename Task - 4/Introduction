@@ -2,4 +2,19 @@ Name: Smruti Padhi
 Roll no.: 21251
 Sec: CSE C
 
-Q.1 
+Q.1 Write a program to perform addition on two user input numbers.
+
+Q.2 Write a program to accept a string from the user and display characters, that are present at an even index number.
+
+Q.3 Write a python program to make a 2-dimensional list that contains represents a table of records,
+(i) Add some records in the list and print the list in tabular form.
+(ii) From created list, extract and print second record/row.
+
+Q.4 Write a program to check if the given number is a palindrome number.
+
+Q.5 Print the following pattern.
+    *
+   * * 
+  * * *
+ * * * *
+* * * * *
