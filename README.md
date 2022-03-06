@@ -1,6 +1,7 @@
-# Cognizance
-" Practice makes a man perfect. "
+### Cognizance
 
-Name: Smruti Padhi
-Roll no.: 21251
+*" Practice makes a man perfect. "*
+
+Name: Smruti Padhi  
+Roll no.: 21251  
 Sec: CSE C
